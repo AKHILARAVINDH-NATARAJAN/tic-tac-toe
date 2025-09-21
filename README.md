@@ -51,6 +51,7 @@ bash
 Copy code
 npm run build
 
+<img width="1881" height="960" alt="image" src="https://github.com/user-attachments/assets/1afce079-1011-4210-99c8-8d238a401adf" />
 
 
 Example:
